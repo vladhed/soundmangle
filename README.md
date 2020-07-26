@@ -9,5 +9,7 @@ Takes a mono WAV file, PCM encoded, 16 bit signed sample at 16000 samples per se
 
 # Run with:
 
-`./mangle test.wav out.wav 100
+`./mangle test.wav out.wav 100`
+
+includes two sample WAV files.  Use something like Goldwave to listen to them, or record others.
 
